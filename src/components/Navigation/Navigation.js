@@ -11,8 +11,8 @@ const Navigation = () => {
           <Navbar.Collapse id='responsive-navbar-nav'>
           <Nav>
             <Nav.Link href="/">Home</Nav.Link>
-            <Nav.Link href="/" hidden-xs>About</Nav.Link>
-            <Nav.Link href="/" hidden-xs>Support</Nav.Link>
+            <Nav.Link href="/about" hidden-xs>About</Nav.Link>
+            <Nav.Link href="/support" hidden-xs>Support</Nav.Link>
           </Nav>
           </Navbar.Collapse>
         </Container>

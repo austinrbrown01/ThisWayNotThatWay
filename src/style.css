@@ -1,0 +1,13 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 2rem;
+    background: radial-gradient(circle at 100%, #404040, #282c34);
+}
+
+.Homepage {
+    color: white;
+    text-align: justify;
+}

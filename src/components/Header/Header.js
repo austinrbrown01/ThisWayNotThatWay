@@ -7,7 +7,7 @@ const Button = styled.button``
 
 const Header = () => (
   <div className="header">
-    <h1>This way, not that way!</h1>
+    <h1></h1>
   </div>
 )
 export default Header;
